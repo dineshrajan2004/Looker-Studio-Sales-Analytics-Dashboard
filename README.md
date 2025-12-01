@@ -74,7 +74,7 @@ Download the PDF version if needed
 (Add screenshots here)
 
 ![Image](https://github.com/user-attachments/assets/5713035b-827d-4e5d-a41c-274b3835f63f)
-/screenshots/page2.png
+![Image](https://github.com/user-attachments/assets/ac6eca6e-1754-451e-a18c-41db2e278b01)
 /screenshots/page3.png
 
 📘 Project Purpose
