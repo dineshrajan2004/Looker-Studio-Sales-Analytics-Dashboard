@@ -73,7 +73,7 @@ Download the PDF version if needed
 
 (Add screenshots here)
 
-/screenshots/page1.png
+https://github.com/user-attachments/assets/5713035b-827d-4e5d-a41c-274b3835f63f
 /screenshots/page2.png
 /screenshots/page3.png
 
